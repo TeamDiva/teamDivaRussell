@@ -1,2 +1,2 @@
-# teamDivaRussell
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# fork 레포
+https://github.com/rkdwlss2/russell
